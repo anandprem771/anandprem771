@@ -1,4 +1,5 @@
 ![logo](https://github.com/cpon143/cpon143/blob/main/logo.png?raw=true)
+
 <!-- Container for text and image side by side -->
 <table>
   <tr>
@@ -7,7 +8,9 @@
       <h1>Hi 👋, I'm Anand Prem Kumar</h1>
       <h3>Software Developer with a Passion for Problem-Solving and Data Management</h3>
       <p align="center"> 
+        <!-- Real-time profile views -->
         <img src="https://komarev.com/ghpvc/?username=cpon143&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+        <!-- Real-time follower count -->
         <img src="https://img.shields.io/github/followers/cpon143?style=flat&label=Followers" alt="Followers" />
       </p>
     </td>
