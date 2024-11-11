@@ -33,7 +33,7 @@ In the coming months, I aim to:
 
 - LinkedIn: https://www.linkedin.com/in/anand-prem-kumar/
 - Email:    anandprem771@gmail.com
-- GitHub:   github.com/anandprem771
+- GitHub:   https://github.com/anandprem771/
 
 Thank you for visiting my GitHub! I’m always open to feedback, collaboration, and new opportunities. Looking forward to connecting and creating together!
 
