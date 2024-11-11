@@ -7,8 +7,8 @@
       <h1>Hi 👋, I'm Anand Prem Kumar</h1>
       <h3>Software Developer with a Passion for Problem-Solving and Data Management</h3>
       <p align="center"> 
-        <img src="https://komarev.com/ghpvc/?username=cpon143&label=Profile%20Views&color=0e75b6&style=flat" alt="cpon143" />
-        <img src="https://img.shields.io/github/followers/cpon143?style=flat&label=Followers" alt="followers" />
+        <img src="https://komarev.com/ghpvc/?username=cpon143&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+        <img src="https://img.shields.io/github/followers/cpon143?style=flat&label=Followers" alt="Followers" />
       </p>
     </td>
     <td style="text-align: right;">
@@ -78,10 +78,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on expanding my career and technical expertise
+- 🔭 Currently focused on expanding my career and technical expertise
 - 🌱 Preparing for an interview with **Xenonstack** and enhancing my knowledge in **data management** and **software development**
 - 👯 Open to collaborating on projects related to **software engineering** and **data analysis**
-- ⚡ Fun fact: I love tackling complex challenges and enjoy both backend and frontend development!
+- ⚡ Fun fact: I enjoy tackling complex challenges and thrive in both backend and frontend development!
 
 ---
 
