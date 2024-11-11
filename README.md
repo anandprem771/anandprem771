@@ -1,17 +1,16 @@
-![logo](https://github.com/cpon143/cpon143/blob/main/logo.png?raw=true)
-
+![logo](https://github.com/username/username/blob/main/logo.png?raw=true)
 <!-- Container for text and image side by side -->
 <table>
   <tr>
     <td style="text-align: left;">
       <!-- Text content on the left -->
-      <h1>Hi 👋, I'm Anand Prem Kumar</h1>
-      <h3>Software Developer with a Passion for Problem-Solving and Data Management</h3>
+      <h1>Hi 👋, I'm Anand prem kumar</h1>
+      <h3>Aspiring [Your Profession/Interest] with a Passion for [Your Specialization or Interest Area]</h3>
       <p align="center"> 
         <!-- Real-time profile views -->
-        <img src="https://komarev.com/ghpvc/?username=cpon143&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+        <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
         <!-- Real-time follower count -->
-        <img src="https://img.shields.io/github/followers/cpon143?style=flat&label=Followers" alt="Followers" />
+        <img src="https://img.shields.io/github/followers/username?style=flat&label=Followers" alt="Followers" />
       </p>
     </td>
     <td style="text-align: right;">
@@ -26,7 +25,7 @@
 ### 🏆 Achievements & Highlights
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cpon143&theme=dracula&no-frame=true&row=1" alt="Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=username&theme=dracula&no-frame=true&row=1" alt="Profile Trophies" />
   </a>
 </p>
 
@@ -67,24 +66,24 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cpon143&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cpon143&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cpon143" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently focused on expanding my career and technical expertise
-- 🌱 Preparing for an interview with **Xenonstack** and enhancing my knowledge in **data management** and **software development**
-- 👯 Open to collaborating on projects related to **software engineering** and **data analysis**
-- ⚡ Fun fact: I enjoy tackling complex challenges and thrive in both backend and frontend development!
+- 🔭 I’m currently working on [Project or Learning Path]
+- 🌱 I’m learning [Programming Languages or Tools]
+- 👯 I’m looking to collaborate on [Projects of Interest]
+- ⚡ Fun fact: [Share an interesting or unique fact about yourself]
 
 ---
 
