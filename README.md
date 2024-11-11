@@ -4,7 +4,7 @@
   <tr>
     <td style="text-align: left;">
       <!-- Text content on the left -->
-      <h1>Hi 👋, I'm Anand prem kumar</h1>
+      <h1>Hi 👋, I'm Anand Prem Kumar</h1>
       <h3>Software Developer with a Passion for Problem-Solving and Data Management</h3>
       <p align="center"> 
         <img src="https://komarev.com/ghpvc/?username=cpon143&label=Profile%20Views&color=0e75b6&style=flat" alt="cpon143" />
