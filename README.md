@@ -1,18 +1,94 @@
-👋 Hi, I'm Anand prem kumar!
-Welcome to my GitHub! I am a software developer passionate about building innovative solutions and continuously growing in my field. Here’s a bit more about me:
+![logo](https://github.com/yourusername/yourusername/blob/main/logo.png?raw=true)
+<!-- Container for text and image side by side -->
+<table>
+  <tr>
+    <td style="text-align: left;">
+      <!-- Text content on the left -->
+      <h1>Hi 👋, I'm Anand prem kumar</h1>
+      <h3>Software Developer with a Passion for Problem-Solving and Data Management</h3>
+      <p align="center"> 
+        <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
+        <img src="https://img.shields.io/github/followers/yourusername?style=flat&label=Followers" alt="followers" />
+      </p>
+    </td>
+    <td style="text-align: right;">
+      <!-- Image content on the right -->
+      <img alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
+    </td>
+  </tr>
+</table>
 
-🚀 About Me
-Programming Languages: Java, C++
-Project Experience: Completed multiple group projects, including a data management web app for a local non-profit
-Current Focus: Preparing for an interview with Xenonstack and expanding my skills in software development and data management
-Career Goal: Growing my technical expertise and career within the next 12-15 months
-🛠️ Technical Skills
-Languages: Java, C++
-Frameworks: Familiar with various web development and data management frameworks
-Tools & Platforms: Git, GitHub, and collaborative project tools
-Project Collaboration: Experienced in working on team-based projects for real-world applications
-💻 Projects
-Data Management Web App: Collaborated with a team to build a web application to manage data for a non-profit, focusing on data integrity and user-friendly design
-📫 Connect with Me
-LinkedIn: Your LinkedIn Profile
-Email: your.email@example.com
+---
+
+### 🏆 Achievements & Highlights
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&no-frame=true&row=1" alt="Profile Trophies" />
+  </a>
+</p>
+
+---
+
+### 📬 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedinprofile/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/yourinstagramprofile" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠 Technologies & Tools
+<p align="center">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 Currently working on expanding my career and technical expertise
+- 🌱 Preparing for an interview with **Xenonstack** and enhancing my knowledge in **data management** and **software development**
+- 👯 Open to collaborating on projects related to **software engineering** and **data analysis**
+- ⚡ Fun fact: I love tackling complex challenges and enjoy both backend and frontend development!
+
+---
+
+### 📄 License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+### 🤝 Contribution Guidelines
+Contributions are welcome! Feel free to open issues or pull requests.
