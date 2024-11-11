@@ -1,4 +1,4 @@
-![logo](https://github.com/yourusername/yourusername/blob/main/logo.png?raw=true)
+![logo](https://github.com/cpon143/cpon143/blob/main/logo.png?raw=true)
 <!-- Container for text and image side by side -->
 <table>
   <tr>
@@ -7,8 +7,8 @@
       <h1>Hi 👋, I'm Anand prem kumar</h1>
       <h3>Software Developer with a Passion for Problem-Solving and Data Management</h3>
       <p align="center"> 
-        <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
-        <img src="https://img.shields.io/github/followers/yourusername?style=flat&label=Followers" alt="followers" />
+        <img src="https://komarev.com/ghpvc/?username=cpon143&label=Profile%20Views&color=0e75b6&style=flat" alt="cpon143" />
+        <img src="https://img.shields.io/github/followers/cpon143?style=flat&label=Followers" alt="followers" />
       </p>
     </td>
     <td style="text-align: right;">
@@ -23,7 +23,7 @@
 ### 🏆 Achievements & Highlights
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&no-frame=true&row=1" alt="Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=cpon143&theme=dracula&no-frame=true&row=1" alt="Profile Trophies" />
   </a>
 </p>
 
@@ -64,15 +64,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cpon143&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cpon143&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cpon143" alt="GitHub Streak" />
 </p>
 
 ---
